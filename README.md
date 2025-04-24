@@ -156,7 +156,7 @@ terraform apply
 ## 👨‍💻 من أنا
 
 **عماد عادل** — مهندس حلول سحابية معتمد من مايكروسوفت ومدرب معتمد  
-[LinkedIn](https://www.linkedin.com/in/emadadel) | [YouTube](https://youtube.com/@emadadel)
+[LinkedIn](https://www.linkedin.com/in/emadadel) | [YouTube](https://www.youtube.com/@EmadAdel2008?sub_confirmation=1)
 
 ---
 
