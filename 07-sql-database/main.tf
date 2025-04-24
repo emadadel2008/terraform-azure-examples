@@ -1,0 +1,1 @@
+resource "azurerm_mssql_server" "example" {...}

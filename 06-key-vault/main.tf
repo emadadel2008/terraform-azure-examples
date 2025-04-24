@@ -1,0 +1,1 @@
+resource "azurerm_key_vault" "example" {...}
